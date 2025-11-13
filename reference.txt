@@ -1,0 +1,4 @@
+Official reference: https://gradle.org/
+
+Homepage summary:
+Gradle's homepage presents it as a high-performance build automation platform for JVM and native projects, emphasizing fast incremental builds, a rich plugin and dependency ecosystem, and tight integrations with IDEs and CI/CD pipelines. It spotlights Build Scan diagnostics, Kotlin-based configuration, enterprise support, and learning resources that help teams automate, collaborate, and deliver software quickly.
