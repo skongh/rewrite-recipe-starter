@@ -1,4 +1,4 @@
 Official reference: https://gradle.org/
 
 Homepage summary:
-Gradle's homepage presents it as a high-performance build automation platform for JVM and native projects, emphasizing fast incremental builds, a rich plugin and dependency ecosystem, and tight integrations with IDEs and CI/CD pipelines. It spotlights Build Scan diagnostics, Kotlin-based configuration, enterprise support, and learning resources that help teams automate, collaborate, and deliver software quickly.
+The Gradle homepage positions Gradle Build Tool as a way to accelerate developer productivity through fast, incremental builds, deep dependency insights, and automation for JVM, Android, and multi-language projects. It highlights the Kotlin DSL, rich plugin ecosystem, and Build Scan diagnostics, alongside Develocity enterprise capabilities, migration guides from Maven and Ant, IDE integrations, learning resources like DPE University, and adoption stories from companies such as Netflix.
